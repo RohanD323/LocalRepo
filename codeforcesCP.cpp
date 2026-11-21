@@ -3,6 +3,8 @@ using namespace std;
 
 typedef long long ll;
 #define vl vector<long long>
+#define MAX 10
+
 
 int main()
 {
