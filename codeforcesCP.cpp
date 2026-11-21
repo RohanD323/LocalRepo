@@ -2,12 +2,7 @@
 using namespace std;
 
 typedef long long ll;
-#define vi vector<int>
-#define vl vector<ll>
-#define vpi vector<pair<int,int>>
-#define vpl vector<pair<ll, ll>>
-#define yes cout<<"YES\n";
-#define no cout<<"NO\n";
+#define vl vector<long long>
 
 int main()
 {
